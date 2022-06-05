@@ -1,1 +1,0 @@
-#um projeto realizado durante o NLW 6°edição
